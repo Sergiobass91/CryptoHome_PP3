@@ -4,7 +4,7 @@ Repositorio para app a desarrollar en Práctica Profesional 3 - ITFS 18
 # Anteproyecto
 El anteproyecto está definido en este [documento](https://docs.google.com/document/d/1TJiNVl4uBZMQ3BJ2zDG9XZl2qsdHWJhEnQBzVgH85v4/edit#)[1]
 
-#Mockups
+# Mockups
 
 En la carpeta [`mockups`](/mockups/) se encuentran los mockups iniciales de la app.
 
